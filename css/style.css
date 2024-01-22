@@ -14,6 +14,9 @@
 .jcc {
   justify-content: center;
 }
+.jcr {
+  justify-content: right;
+}
 
 .column {
   flex-direction: column;
